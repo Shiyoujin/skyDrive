@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5880d7a8-575f-4568-8931-fec71fd2418c" name="默认的" comment="云盘">
+      <change afterPath="$PROJECT_DIR$/../HelloDocker/.idea/HelloDocker.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloDocker/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloDocker/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloDocker/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloDocker/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloDocker/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../awesomeProject/.idea/awesomeProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../awesomeProject/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../awesomeProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../awesomeProject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../awesomeProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../awesomeProject/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../awesomeProject/Array.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../awesomeProject/MyFirstGo.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../awesomeProject/Range.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../awesomeProject/Second.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../awesomeProject/Third.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../awesomeProject1/.idea/awesomeProject1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../awesomeProject1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../awesomeProject1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../awesomeProject1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../awesomeProject1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../awesomeProject1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../awesomeProject1/date.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../awesomeProject1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../awesomeProject1/upLoad.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gin/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gin/.idea/gin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gin/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gin/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gin/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gin/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gin/apis/person.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gin/database/mysql.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gin/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gin/models/person.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gin/router.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ginhelp/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ginhelp/.idea/ginhelp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ginhelp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ginhelp/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ginhelp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ginhelp/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ginhelp/body.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ginhelp/multipart/form-data.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ginhelp/query.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ginhelp/router.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ginhelp/together.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/juju/ratelimit" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/kr/pretty" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.com/kr/text" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gopkg.in/check.v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../json/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../json/.idea/json.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../json/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../json/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../json/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../json/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../json/Test/Look.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsonSerialize" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkg/windows_amd64/github.com/dlclark/regexp2.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkg/windows_amd64/github.com/dlclark/regexp2/syntax.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkg/windows_amd64/github.com/gin-contrib/sessions.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkg/windows_amd64/github.com/gin-contrib/sessions/cookie.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkg/windows_amd64/github.com/gin-contrib/sessions/memcached.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkg/windows_amd64/github.com/gin-contrib/sessions/memstore.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkg/windows_amd64/github.com/gin-contrib/sessions/mongo.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkg/windows_amd64/github.com/gin-contrib/sessions/redis.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkg/windows_amd64/github.com/gin-contrib/sessions/tester.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pkg/windows_amd64/github.com/gin-gonic/contrib/sessions.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rabbitMQ/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rabbitMQ/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rabbitMQ/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rabbitMQ/.idea/rabbitMQ.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rabbitMQ/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rabbitMQ/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rabbitMQ/consumer.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rabbitMQ/create.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rabbitMQ/vo/order.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rabbithaha/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rabbithaha/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rabbithaha/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rabbithaha/.idea/rabbithaha.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rabbithaha/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rabbithaha/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rabbithaha/create.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rabbithaha/database/mysql-master.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rabbithaha/vo/Order.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/github.com/Shiyoujin/rabbitMQTaskk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/github.com/boj/redistore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/github.com/bradfitz/gomemcache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/github.com/bradleypeabody/gorilla-sessions-memcache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/github.com/dlclark/regexp2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/github.com/gin-contrib/sessions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/github.com/gin-gonic/contrib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/github.com/globalsign/mgo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/github.com/gomodule/redigo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/github.com/gorilla/context" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/github.com/gorilla/securecookie" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/github.com/gorilla/sessions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/github.com/kidstuff/mongostore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/github.com/memcachier/mc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/github.com/quasoft/memstore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/rabbitMQ/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/rabbitMQ/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/rabbitMQ/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/rabbitMQ/.idea/rabbitMQ.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/rabbitMQ/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/rabbitMQ/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/rabbitMQ/consumer.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/rabbitMQ/create.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/rabbitMQ/vo/order.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/rabbithaha/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/rabbithaha/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/rabbithaha/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/rabbithaha/.idea/rabbithaha.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/rabbithaha/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/rabbithaha/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/rabbithaha/create.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/rabbithaha/vo/Order.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitMQTask/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rabbitMQTask/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dao/one.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="103">
+              <caret line="10" selection-start-line="10" selection-end-line="20" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="81" column="6" selection-start-line="81" selection-start-column="6" selection-end-line="81" selection-end-column="6" />
+              <folding>
+                <element signature="e#500#507#0" />
+                <element signature="e#1033#1040#0" />
+                <element signature="e#1483#1946#0" />
+                <element signature="e#2024#4951#0" />
+                <element signature="e#5006#5790#0" />
+                <element signature="e#5861#6979#0" />
+                <element signature="e#7055#7452#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dao/user.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="717">
+              <caret line="60" column="33" selection-start-line="60" selection-start-column="33" selection-end-line="60" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dao/file.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="52">
+              <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+              <folding>
+                <element signature="e#13#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UpDownload/download.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="113" column="1" selection-start-line="113" selection-start-column="1" selection-end-line="113" selection-end-column="1" />
+              <folding>
+                <element signature="e#20#164#0" expanded="true" />
+                <element signature="n#!!block;n#Redirect#0" />
+                <element signature="e#1213#1240#0" />
+                <element signature="n#!!block;n#EnCrySharing#0" />
+                <element signature="e#1281#1312#0" />
+                <element signature="e#813#820#0" />
+                <element signature="e#1535#1592#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UpDownload/upA.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-57">
+              <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UpDownload/upload.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1244">
+              <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dao/share.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="223">
+              <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dao/DB.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>fileName</find>
+      <find>Photo</find>
+      <find>Defa</find>
+      <find>Privile</find>
+    </findStrings>
+  </component>
+  <component name="GOROOT" path="F:\golang" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="urls">
+      <list>
+        <option value="file://$PROJECT_DIR$/.." />
+        <option value="file://$PROJECT_DIR$/../../bin" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/upDownload/upload.go" />
+        <option value="$PROJECT_DIR$/Test/MD5.go" />
+        <option value="$PROJECT_DIR$/upDownload/upA.go" />
+        <option value="$PROJECT_DIR$/PrivilegeControl/LoginInAndOut.go" />
+        <option value="$PROJECT_DIR$/Test/createFile.go" />
+        <option value="$PROJECT_DIR$/upDownload/uploadB.go" />
+        <option value="$PROJECT_DIR$/upDownload/download.go" />
+        <option value="$PROJECT_DIR$/upDownload/main.go" />
+        <option value="$PROJECT_DIR$/main/mian.go" />
+        <option value="$PROJECT_DIR$/UpDownload/upA.go" />
+        <option value="$PROJECT_DIR$/dao/DB.go" />
+        <option value="$PROJECT_DIR$/../../bin/src/PrivilegeControl/RegisterSignIn.go" />
+        <option value="$PROJECT_DIR$/dao/user.go" />
+        <option value="$PROJECT_DIR$/../src/github.com/gin-contrib/sessions/cookie/cookie.go" />
+        <option value="$PROJECT_DIR$/dao/share.go" />
+        <option value="$PROJECT_DIR$/oneUpload/one.go" />
+        <option value="$PROJECT_DIR$/dao/one.go" />
+        <option value="$PROJECT_DIR$/dao/file.go" />
+        <option value="$PROJECT_DIR$/PrivilegeControl/RegisterSignIn.go" />
+        <option value="$PROJECT_DIR$/Dao/user.go" />
+        <option value="$PROJECT_DIR$/Dao/file.go" />
+        <option value="$PROJECT_DIR$/Dao/share.go" />
+        <option value="$PROJECT_DIR$/UpDownload/download.go" />
+        <option value="$PROJECT_DIR$/main/main.go" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="687" />
+    <option name="y" value="42" />
+    <option name="width" value="1128" />
+    <option name="height" value="835" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="添加" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="skyDrive" type="b2602c69:ProjectViewProjectNode" />
+              <item name="skyDrive" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="skyDrive" type="b2602c69:ProjectViewProjectNode" />
+              <item name="skyDrive" type="462c0819:PsiDirectoryNode" />
+              <item name="Dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="skyDrive" type="b2602c69:ProjectViewProjectNode" />
+              <item name="skyDrive" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="skyDrive" type="b2602c69:ProjectViewProjectNode" />
+              <item name="skyDrive" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="skyDrive" type="b2602c69:ProjectViewProjectNode" />
+              <item name="skyDrive" type="462c0819:PsiDirectoryNode" />
+              <item name="UpDownload" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="GO_FMT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Build.go build main.go (1)">
+    <configuration name="go build RegisterSignIn.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="skyDrive" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/PrivilegeControl/RegisterSignIn.go" />
+      <package value="skyDrive" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="skyDrive" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main/main.go" />
+      <package value="skyDrive" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="skyDrive" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/upDownload/main.go" />
+      <package value="skyDrive" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build share.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="skyDrive" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/dao/share.go" />
+      <package value="skyDrive" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build upA.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="skyDrive" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/UpDownload/upA.go" />
+      <package value="skyDrive" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go (1)" />
+        <item itemvalue="Go Build.go build RegisterSignIn.go" />
+        <item itemvalue="Go Build.go build share.go" />
+        <item itemvalue="Go Build.go build upA.go" />
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="624" y="35" width="902" height="668" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.27606636" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="运行" order="0" visible="true" weight="0.38992536" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32808024" />
+      <window_info anchor="bottom" id="Database Changes" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="bottom" id="调试" order="5" weight="0.3295129" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Find" order="8" />
+      <window_info anchor="bottom" id="Run" order="9" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="13" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="云盘" />
+    <option name="LAST_COMMIT_MESSAGE" value="云盘" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://F:/golang/src/net/http/server.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="1769" column="71" lean-forward="true" selection-start-line="1769" selection-start-column="71" selection-end-line="1769" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/golang/src/net/http/status.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="67" column="4" selection-start-line="67" selection-start-column="4" selection-end-line="67" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../bin/src/github.com/gin-gonic/gin/tree.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-130">
+          <caret line="250" selection-start-line="250" selection-end-line="250" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PrivilegeControl/LoginInAndOut.go" />
+    <entry file="file://$PROJECT_DIR$/upDownload/uploadB.go" />
+    <entry file="file://$PROJECT_DIR$/upDownload/main.go" />
+    <entry file="file://$PROJECT_DIR$/Test/createFile.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" selection-start-line="17" selection-end-line="17" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/MD5.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#14#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../bin/src/PrivilegeControl/RegisterSignIn.go" />
+    <entry file="file://$PROJECT_DIR$/../src/github.com/gin-contrib/sessions/cookie/cookie.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oneUpload/one.go" />
+    <entry file="file://F:/golang/src/runtime/asm_amd64.s">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="1336" selection-start-line="1336" selection-end-line="1336" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/github.com/gin-gonic/contrib/sessions/sessions.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../bin/src/github.com/gin-gonic/gin/context.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="150" lean-forward="true" selection-start-line="150" selection-end-line="150" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../bin/src/github.com/gin-gonic/gin/recovery.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/golang/src/runtime/signal_windows.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="232" selection-start-line="232" selection-end-line="232" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/golang/src/database/sql/sql.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="2656" selection-start-line="2656" selection-end-line="2656" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/golang/src/runtime/panic.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="81" selection-start-line="81" selection-end-line="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dao/DB.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dao/user.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="717">
+          <caret line="60" column="33" selection-start-line="60" selection-start-column="33" selection-end-line="60" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dao/one.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="10" selection-start-line="10" selection-end-line="20" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dao/file.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding>
+            <element signature="e#13#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dao/share.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PrivilegeControl/RegisterSignIn.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+          <folding>
+            <element signature="e#26#161#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UpDownload/upA.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UpDownload/upload.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1244">
+          <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UpDownload/download.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="113" column="1" selection-start-line="113" selection-start-column="1" selection-end-line="113" selection-end-column="1" />
+          <folding>
+            <element signature="e#20#164#0" expanded="true" />
+            <element signature="n#!!block;n#Redirect#0" />
+            <element signature="e#1213#1240#0" />
+            <element signature="n#!!block;n#EnCrySharing#0" />
+            <element signature="e#1281#1312#0" />
+            <element signature="e#813#820#0" />
+            <element signature="e#1535#1592#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="81" column="6" selection-start-line="81" selection-start-column="6" selection-end-line="81" selection-end-column="6" />
+          <folding>
+            <element signature="e#500#507#0" />
+            <element signature="e#1033#1040#0" />
+            <element signature="e#1483#1946#0" />
+            <element signature="e#2024#4951#0" />
+            <element signature="e#5006#5790#0" />
+            <element signature="e#5861#6979#0" />
+            <element signature="e#7055#7452#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
