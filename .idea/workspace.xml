@@ -123,8 +123,6 @@
       <change afterPath="$PROJECT_DIR$/../src/rabbithaha/create.go" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../src/rabbithaha/vo/Order.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../rabbitMQTask/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rabbitMQTask/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -143,10 +141,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
+            <state relative-caret-position="-76">
               <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
               <folding>
                 <element signature="e#500#507#0" />
@@ -157,6 +155,15 @@
                 <element signature="e#5861#6979#0" />
                 <element signature="e#7055#7452#0" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/vendor/vendor.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -296,8 +303,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="678" />
-    <option name="y" value="62" />
+    <option name="x" value="108" />
+    <option name="y" value="127" />
     <option name="width" value="1242" />
     <option name="height" value="835" />
   </component>
@@ -316,6 +323,11 @@
             <path>
               <item name="skyDrive" type="b2602c69:ProjectViewProjectNode" />
               <item name="skyDrive" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="skyDrive" type="b2602c69:ProjectViewProjectNode" />
+              <item name="skyDrive" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -407,13 +419,14 @@
     </recent_temporary>
   </component>
   <component name="ToolWindowManager">
-    <frame x="522" y="442" width="993" height="668" extended-state="0" />
+    <frame x="543" y="50" width="993" height="668" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.19251336" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.19251336" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="运行" order="0" weight="0.29942694" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.4272388" />
+      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.05783582" />
       <window_info anchor="bottom" id="Database Changes" order="2" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="4" weight="0.3295129" />
@@ -620,7 +633,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
+        <state relative-caret-position="-76">
           <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
           <folding>
             <element signature="e#500#507#0" />
@@ -631,6 +644,13 @@
             <element signature="e#5861#6979#0" />
             <element signature="e#7055#7452#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/vendor.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
         </state>
       </provider>
     </entry>
