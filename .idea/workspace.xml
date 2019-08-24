@@ -123,6 +123,8 @@
       <change afterPath="$PROJECT_DIR$/../src/rabbithaha/create.go" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../src/rabbithaha/vo/Order.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../rabbitMQTask/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rabbitMQTask/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -144,8 +146,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="81" column="6" selection-start-line="81" selection-start-column="6" selection-end-line="81" selection-end-column="6" />
+            <state relative-caret-position="152">
+              <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
               <folding>
                 <element signature="e#500#507#0" />
                 <element signature="e#1033#1040#0" />
@@ -294,9 +296,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="687" />
-    <option name="y" value="42" />
-    <option name="width" value="1128" />
+    <option name="x" value="678" />
+    <option name="y" value="62" />
+    <option name="width" value="1242" />
     <option name="height" value="835" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -315,26 +317,6 @@
               <item name="skyDrive" type="b2602c69:ProjectViewProjectNode" />
               <item name="skyDrive" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="skyDrive" type="b2602c69:ProjectViewProjectNode" />
-              <item name="skyDrive" type="462c0819:PsiDirectoryNode" />
-              <item name="Dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="skyDrive" type="b2602c69:ProjectViewProjectNode" />
-              <item name="skyDrive" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="skyDrive" type="b2602c69:ProjectViewProjectNode" />
-              <item name="skyDrive" type="462c0819:PsiDirectoryNode" />
-              <item name="Test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="skyDrive" type="b2602c69:ProjectViewProjectNode" />
-              <item name="skyDrive" type="462c0819:PsiDirectoryNode" />
-              <item name="UpDownload" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -349,6 +331,7 @@
     <property name="configurable.Module.GOPATH.is.expanded" value="true" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -424,17 +407,16 @@
     </recent_temporary>
   </component>
   <component name="ToolWindowManager">
-    <frame x="624" y="35" width="902" height="668" extended-state="0" />
-    <editor active="true" />
+    <frame x="522" y="442" width="993" height="668" extended-state="0" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.27606636" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.19251336" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="运行" order="0" visible="true" weight="0.38992536" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32808024" />
+      <window_info anchor="bottom" id="运行" order="0" weight="0.29942694" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.4272388" />
       <window_info anchor="bottom" id="Database Changes" order="2" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="4" weight="0.3295129" />
       <window_info anchor="bottom" id="调试" order="5" weight="0.3295129" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -638,8 +620,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="81" column="6" selection-start-line="81" selection-start-column="6" selection-end-line="81" selection-end-column="6" />
+        <state relative-caret-position="152">
+          <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
           <folding>
             <element signature="e#500#507#0" />
             <element signature="e#1033#1040#0" />
